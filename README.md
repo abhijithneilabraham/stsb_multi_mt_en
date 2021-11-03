@@ -9,3 +9,6 @@ from sentence_transformers import SentenceTransformer
 
 model = SentenceTransformer("abhijithneilabraham/stsb_multi_mt_distilbert-base-uncased")
 ```
+
+
+Find the evaluation results [here](https://github.com/abhijithneilabraham/stsb_multi_mt_en/blob/main/eval/similarity_evaluation_sts-dev_results.csv)
